@@ -19,22 +19,22 @@
                     <div class="form-group row">
                         <label class="col-md-2 col-form-label">Person A</label>
                         <div class="col-md-2">
-                            <input type="number" class="form-control" name="a_aod" placeholder="Age of Death">
+                            <input type="number" class="form-control" name="a_aod" placeholder="Age of Death" required>
                         </div>
 
                         <div class="col-md-2">
-                            <input type="number" class="form-control" name="a_yod" placeholder="Year of Death">
+                            <input type="number" class="form-control" name="a_yod" placeholder="Year of Death" required>
                         </div>
                     </div>
 
                     <div class="form-group row">
                         <label class="col-md-2 col-form-label">Person B</label>
                         <div class="col-md-2">
-                            <input type="number" class="form-control" name="b_aod" placeholder="Age of Death">
+                            <input type="number" class="form-control" name="b_aod" placeholder="Age of Death" required>
                         </div>
 
                         <div class="col-md-2">
-                            <input type="number" class="form-control" name="b_yod" placeholder="Year of Death">
+                            <input type="number" class="form-control" name="b_yod" placeholder="Year of Death" required>
                         </div>
                     </div>
                     
